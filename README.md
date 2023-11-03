@@ -7,6 +7,9 @@ This repository will focus on desinging the policies, problems, solutions for en
 
 
 ### Problems
+1. To create a stack so that any firm in any nation can verify the credentials of previous employment and education.
+2. To create a stack or come up with a design using the existing modes of payments for a better transparent payroll/payment system.
+3. Working remote and working from office?
 
 ### Solutions
 
